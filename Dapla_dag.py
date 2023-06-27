@@ -13,7 +13,7 @@
 
 Dapla = "Krimgruppa "
 Dag = "rocker!"
-Dato = "28.06.2040"
+Dato = "28.06.2023"
 
 print(Dapla+Dag+" Og datoen i dag er "+Dato)
 
