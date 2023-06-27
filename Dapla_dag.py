@@ -18,4 +18,5 @@ Dato = "28.06.2023"
 print("")
 print(Dapla+Dag+" Og datoen i dag er "+Dato)
 print("og dette er gøy")
+print("Eller er det det????")
 
